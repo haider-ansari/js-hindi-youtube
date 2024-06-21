@@ -54,6 +54,8 @@ users[1].email
 
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
+//object de-structuring
+//---------------------
 
 const course = {
     coursename: "js in hindi",
